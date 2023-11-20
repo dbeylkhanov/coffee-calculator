@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeCalculator", "CoffeeCalculator\CoffeeCalculator.csproj", "{60DB0E95-E397-4EF6-9571-4FC2A4249AB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeCalculator.Console", "CoffeCalculator.Console\CoffeCalculator.Console.csproj", "{5888EF0C-0CE0-46A3-8C0E-F5B5BA73594A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeCalculator.Console", "CoffeeCalculator.Console\CoffeeCalculator.Console.csproj", "{5888EF0C-0CE0-46A3-8C0E-F5B5BA73594A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeCalculator.Tests", "CoffeeCalculator.Tests\CoffeeCalculator.Tests.csproj", "{EC09505B-289F-477B-A9D1-588D04BEB621}"
 EndProject
