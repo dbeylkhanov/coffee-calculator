@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=21f8c56d_002Deecf_002D4917_002D9d90_002Db983c8de75e0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateRefillSchedule_DoesNotIncludeHolidaysAndWeekends #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EC09505B-289F-477B-A9D1-588D04BEB621::net7.0::CoffeeCalculator.Tests.CalculatorTests.CalculateRefillSchedule_DoesNotIncludeHolidaysAndWeekends&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e1ca25a_002D9783_002D463d_002Dbb3d_002D49b4c0147033/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculateRefillSchedule_DoesNotIncludeHolidaysAndWeekends #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EC09505B-289F-477B-A9D1-588D04BEB621::net7.0::CoffeeCalculator.Tests.CalculatorTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3f95ff1e_002De492_002D43b3_002D8f67_002Dfef27f8132f5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateRefillSchedule_DoesNotIncludeHolidaysAndWeekends" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EC09505B-289F-477B-A9D1-588D04BEB621::net7.0::CoffeeCalculator.Tests.CalculatorTests.CalculateRefillSchedule_DoesNotIncludeHolidaysAndWeekends&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d58977d9_002Dca52_002D4a94_002D8f5e_002D164208b862dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from CalculatorTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/dabeylkhanov/RiderProjects/external/coffeecalculator/CoffeeCalculator.Tests" Presentation="&amp;lt;CoffeeCalculator.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
