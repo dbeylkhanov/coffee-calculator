@@ -39,7 +39,7 @@ var calculator = new Calculator(calendar, calculatorSettings);
 var sprintsCalendar = calendar.GenerateSprintsCalendar(startDate, 14, 2); // 2 спринта по 14 дней
 var calculationResult = calculator.CalculateRefillSchedule(sprintsCalendar);
 ```
-Опционально для калькулятора можно также передать номер дня, который будет влиять на увеличенное потребление кофе (к примеру, с 8го дня в спринте кофе начинают пить больше, чем обычно).
+Опционально в `CalculateRefillSchedule` можно также передать номер дня, который будет влиять на увеличенное потребление кофе (к примеру, с 8го дня в спринте кофе начинают пить больше, чем обычно).
 
 # Демо
 Достаточно запустить проект в консоли, где будет рассчет для демо-примера
